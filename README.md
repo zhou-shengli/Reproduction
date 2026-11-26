@@ -1,4 +1,4 @@
-# Reproduction
+# Reproducing the paper
 
 Using 1D CNN to "read" formation parameters from pressure curves
 Because the original data was not open source.
